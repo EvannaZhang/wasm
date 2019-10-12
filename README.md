@@ -1,2 +1,4 @@
 # wasm
 test
+test
+test
