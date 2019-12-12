@@ -1,4 +1,2 @@
 # wasm
-test
-test
-test
+WebAssembly Fuzzing Test
